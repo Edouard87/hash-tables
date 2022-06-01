@@ -1,4 +1,4 @@
-# An Implementation of Priority Queues using Binary Heaps in C
+# An Implementation of Dictionaries using Binary Heaps in C
 
 ## Disclaimer
 
